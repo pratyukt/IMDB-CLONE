@@ -7,7 +7,7 @@ import MoviesList from './Components/MoviesList'
 import Navbar from './Components/Navbar'
 import Card from './Components/Card'
 import CardSearch from './Components/CardSearch'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 const App = () => {
   return (
     <div className="App">
